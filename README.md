@@ -55,7 +55,7 @@ Peta persepsi menunjukkan pengelompokan yang jelas antara jenjang pendidikan dan
 
 ## 📈 Visualisasi
 
-![Plot Korespondensi](link-gambar-plot-anda-disini.png)
+![Plot Korespondensi](./image.png)
 
 > *Gambar: Peta Korespondensi menunjukkan kedekatan antara kategori pendidikan (lingkaran biru) dan status pekerjaan (lingkaran merah).*
 
