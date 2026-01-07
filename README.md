@@ -8,7 +8,7 @@
 
 ## 📖 Gambaran Proyek (Project Overview)
 
-Proyek ini bertujuan untuk memetakan profil ketenagakerjaan di Kabupaten Banyumas dan menganalisis hubungan antara **Tingkat Pendidikan Terakhir** dengan **Status Pekerjaan Utama**. 
+Project ini bertujuan untuk memetakan profil ketenagakerjaan di Kabupaten Banyumas dan menganalisis hubungan antara **Tingkat Pendidikan Terakhir** dengan **Status Pekerjaan Utama**. 
 
 Dilatarbelakangi oleh fenomena *mismatch* (ketidaksesuaian) antara lulusan pendidikan dan kebutuhan pasar kerja, analisis ini memberikan wawasan berbasis data bagi pemerintah daerah untuk merumuskan kebijakan pelatihan kerja yang lebih tepat sasaran.
 
